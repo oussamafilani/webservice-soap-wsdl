@@ -29,7 +29,7 @@ Ce projet implémente un Web Service SOAP permettant de :
 
   <img src="captures/5.png">
 
-- Création d'un Client SOAP Java** : Développement d'un client SOAP en **Java** pour interagir avec le Web service en utilisant **JAX-WS**.
+- Création d'un Client SOAP **Java** : Développement d'un client SOAP en **Java** pour interagir avec le Web service en utilisant **JAX-WS**.
 
   <img src="captures/6.png">
 
